@@ -196,3 +196,18 @@ O CapiBot começou como proposta de simulação no CoppeliaSim, usando linhas co
 Projeto desenvolvido pela equipe CapiBot na disciplina de Robótica.
 
 Integrantes citados nos materiais do projeto: Arthur, Guilherme, Pedro, Vinícius Ribeiro e Vinicyus.
+
+---
+# Link do Relatório
+> https://docs.google.com/document/d/1hx5jaxl3Kh5U8YLheNZ77OgSc7Q0BwdGaoZwEF5JD8M/edit?usp=sharing
+
+---
+# Link do Repositório
+> https://github.com/Vjfrib/Elementos-da-Rob-tica
+
+---
+# Link dos demais documentos
+> https://drive.google.com/drive/folders/1zWfY4u6Pp4PBYSidGEZoLEqJiD-sx8go?usp=sharing
+
+---
+---
